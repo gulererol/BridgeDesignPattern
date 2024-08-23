@@ -1,0 +1,1 @@
+Bridge tasarım deseni, bir nesnenin soyutlaması ile onun implementasyonu arasındaki bağımlılığı ortadan kaldırarak, bu iki tarafın bağımsız olarak geliştirilmesine olanak tanır. Bu senaryoda, kitap ve dergi kapaklarının farklı renk ve boyutlarda üretilebilmesini sağlamak için Bridge tasarım desenini kullandık.
